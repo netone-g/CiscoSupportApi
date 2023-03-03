@@ -1,0 +1,21 @@
+[flake8]
+ignore=
+  E203
+  E221
+  E241
+  E302
+  E303
+  E305
+  E475
+  E501
+  E731
+  W293
+  W605
+
+exclude =
+    .git,
+    .tox,
+    .cache,
+    __pycache__,
+    venv
+    **/__init__.py

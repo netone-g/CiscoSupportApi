@@ -1,0 +1,5 @@
+__pycache__
+var
+.env
+.python-version
+.mypy_cache/

@@ -1,0 +1,11 @@
+-r requirements.txt
+flake8
+isort
+black
+mypy
+mypy-extensions
+types-python-dateutil
+types-PyYAML
+types-requests
+types-six
+types-urllib3

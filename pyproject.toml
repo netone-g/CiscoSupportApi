@@ -1,0 +1,12 @@
+[tool.isort]
+py_version = 39
+profile = "black"
+
+# [tool.flake8]
+# See .flake8 becouse flake8 does not support pyproject.toml
+
+[tool.mypy]
+python_version = 3.9
+exclude = "__pycache__"
+ignore_missing_imports = true
+warn_unused_ignores = false
