@@ -38,12 +38,12 @@ https://developer.cisco.com/docs/support-apis/#!user-onboarding-process/user-onb
 ## Installation  
 To install the latest release of ciscosupportapi, do this:
 ```sh
-pip install git+https://<TODO: Change to GitHub URL>
+pip install git+https://github.com/netone-g/CiscoSupportApi
 ```
 
 To install a specific version:  
 ```sh
-pip install git+https://<TODO: Change to GitHub URL>@{version}
+pip install git+https://github.com/netone-g/CiscoSupportApi@{version}
 ```
 
 The URL for installation can also be written in a text file:
